@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 ![stats](https://github-readme-stats.vercel.app/api?username=bastosgabriel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=issues,contribs)
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bastosgabriel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=issues,contribs)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bastosgabriel&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&hide=issues,contribs)
