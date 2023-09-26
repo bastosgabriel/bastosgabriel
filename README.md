@@ -1,7 +1,6 @@
 
 #  Hey 👋 I'm Gabriel 
 
-*Graduating at [Universidade Federal do Rio de Janeiro](https://ufrj.br/en/)*  
 *Software Developer at [Sling Hub](https://slinghub.io/)*
 <!-- 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com) -->
@@ -21,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ---
 
 📈 **My GitHub Stats:**
@@ -30,5 +29,6 @@ Here are some ideas to get you started:
 
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bastosgabriel&theme=radical&layout=compact&show_icons=true&hide_border=true&card_width=445&langs_count=10&exclude_repo=data-science-tutorial,chess-theme-classifier,ptpython)
 
-<!-- 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bastosgabriel&theme=radical) -->
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bastosgabriel&theme=radical)
+-->
